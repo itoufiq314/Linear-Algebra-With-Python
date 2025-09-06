@@ -12,6 +12,7 @@ The lectures notes are loosely based on several textbooks:
 4. <b><i>Linear Algebra With Applications</i></b> by Gareth Williams
 
 ![cover-min](https://user-images.githubusercontent.com/59842360/83939172-64df6c00-a7e3-11ea-80b1-058af696d5a3.png)
+Another resource  : https://pabloinsente.github.io/intro-linear-algebra#lu-decomposition
 
 However, the crux of the course is not about proving theorems, but to demonstrate the practices and visualization of the concepts. Thus we will not engage in precise deduction or notation, rather we aim to clarify the elusive concepts and thanks to Python/MATLAB, the task is much easier now.
 
